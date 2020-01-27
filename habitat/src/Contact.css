@@ -1,0 +1,30 @@
+body {
+  background-image: url("black.jpg");
+}
+
+h1,
+h2 {
+  color: yellow;
+}
+.box {
+  text-align: center;
+  border-color: yellow;
+}
+.text {
+  color: yellow;
+}
+.box1 {
+  border: solid 3px yellow;
+}
+.box2 {
+  border: solid 3px yellow;
+}
+.box3 {
+  border: solid 3px yellow;
+}
+.box4 {
+  border: solid 3px yellow;
+}
+.box5 {
+  border: solid 3px yellow;
+}
